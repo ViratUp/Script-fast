@@ -2,7 +2,7 @@
 # FAST SCRIPT FACEBOOK
 
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/ViratUp)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/RO M AN)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+9647501920175)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-ViratUp-dimgray?style=flat-square&logo=github)](https://github.com/ViratUp)<br> [![Facebook](https://img.shields.io/badge/Facebook-RO M AN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/RO M AN)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-TMVIRAT-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+9647501920175)
 
 
 
@@ -32,4 +32,4 @@ PAID TOOLS
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+9647501920175)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-TMVIRAT-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+9647501920175)
