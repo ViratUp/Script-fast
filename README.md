@@ -22,11 +22,9 @@ PAID TOOLS
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `pkg install fish`
-- `fish`
 - `rm -rf Script-fast`
 - `git clone --depth=1 https://github.com/ViratUp/Script-fast.git`
-- `Script-fast/`
+- `cd Script-fast`
 - `python runx-Enc.pyc`
 
 
