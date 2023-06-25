@@ -2,7 +2,7 @@
 # FAST SCRIPT FACEBOOK
 
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-ViratUp-dimgray?style=flat-square&logo=github)](https://github.com/ViratUp)<br> [Whatsapp](https://img.shields.io/badge/Whatsapp-TMVIRAT-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+9647501920175)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-ViratUp-dimgray?style=flat-square&logo=github)](https://github.com/ViratUp)<br> 
 
 
 
